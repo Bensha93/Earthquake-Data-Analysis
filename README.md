@@ -120,6 +120,7 @@ This analysis uses **R programming language** with the following key libraries:
 - Intermediate: 70 km ≤ Depth < 300 km.
 - Deep: Depth ≥ 300 km.
 
+
 ---
 
 ## **📈 Statistical Analysis Results**
@@ -135,6 +136,9 @@ This analysis uses **R programming language** with the following key libraries:
 
 ---
 
+![11111d](https://github.com/user-attachments/assets/ec7e03bb-f41b-4f06-a75a-fc45aafe2c32)
+
+
 ## **🎨 Visual Analysis**
 ### **1. Geographic Distribution**
 - Scatter plot highlighting earthquake concentrations along tectonic plate boundaries:
@@ -146,6 +150,8 @@ This analysis uses **R programming language** with the following key libraries:
 - **Intermediate Earthquakes**: Bimodal distribution.
 - **Shallow Earthquakes**: Normal distribution with variable ranges.
 
+![2222d](https://github.com/user-attachments/assets/0da5c28e-6d83-4bf2-9607-352142c8924c)
+
 ---
 
 ## **📊 Bootstrap Analysis**
@@ -155,6 +161,8 @@ This analysis uses **R programming language** with the following key libraries:
 - **Key Insights**:
   - Narrow confidence interval indicates high precision.
   - Reliable framework for earthquake magnitude predictions.
+  
+![33333](https://github.com/user-attachments/assets/ae7079f6-1514-43e6-8836-66a52432e1fe)
 
 ---
 
@@ -163,6 +171,8 @@ This analysis uses **R programming language** with the following key libraries:
 - **Peak Activity**: 9:00 AM UTC (~615 earthquakes).
 - **Secondary Peaks**: Midnight UTC, 5:00 AM, and 8:00 PM.
 - **Cyclical Trends**: ~4–6 hour cycles between activity peaks.
+
+![download](https://github.com/user-attachments/assets/3668d6de-33bc-4fcb-ab58-6e9ba8ca1272)
 
 ---
 
